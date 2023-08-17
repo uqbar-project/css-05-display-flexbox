@@ -124,7 +124,8 @@ Con lo que vimos hasta ahora, somos capaces de ubicar nuestros ítems en la dire
 - flex-start
 - flex-end
 - stretch
-- baseline
+- [first] baseline
+- last baseline
 
 Para poder verlo sigamos con el ejemplo y agreguemos un `header`...
 
@@ -402,7 +403,8 @@ Las propiedades que acepta **align-self**, son las mismas que align-items:
 - flex-start
 - flex-end
 - stretch
-- baseline
+- [first] baseline
+- last baseline
 
 ### Manejo de tamaños flexibles.
 
